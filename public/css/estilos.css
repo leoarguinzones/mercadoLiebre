@@ -1,0 +1,45 @@
+body{
+        font-family: 'Roboto', sans-serif;
+    font-size: 12px; 
+}
+
+header{
+    background-color: #EAC926;
+}
+
+.titulares{
+    font-size: 24px;
+}
+
+.precios{
+    font-size: 18px;
+}
+
+.descuentos{
+    font-size: 16px;
+}
+
+.descripciones{
+    font-size: 16px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+/* Tamaños Tipográficos
+Cuerpos de texto: 12px
+Titulares (Basado en tu última visita/Ofertas): 24px
+Precios: 18px
+Descuentos: 16px
+Descripciones: 16px */
