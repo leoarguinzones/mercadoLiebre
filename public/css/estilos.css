@@ -1,6 +1,7 @@
 body{
         font-family: 'Roboto', sans-serif;
     font-size: 12px; 
+    color: #666
 }
 
 header{
@@ -33,6 +34,36 @@ img{
     height: auto;
 }
 
+.burger{    
+background-color: blue;
+color: white;
+border-radius: 2px;
+border:none;
+
+}
+
+.burger-menu{
+    text-align: center;
+    padding-bottom: 10px;   
+}
+
+.secFooter{
+text-align: center;
+margin: 0px 75px;
+
+width: 100px;
+border:solid red 1px
+
+}
+
+
+.icoFooter{
+    color: blue;
+    font-size: 2em;
+    margin-bottom: 10px;          
+    margin-top: 40px;
+}
+
 
 
 
@@ -42,4 +73,12 @@ Cuerpos de texto: 12px
 Titulares (Basado en tu última visita/Ofertas): 24px
 Precios: 18px
 Descuentos: 16px
-Descripciones: 16px */
+Descripciones: 16px 
+
+Paleta de colores
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a; */
